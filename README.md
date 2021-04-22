@@ -9,6 +9,12 @@
 <a href="https://github.com/HackWeiser360"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
 </p>
 
+![coverage](https://img.shields.io/badge/coverage-29%25-yellowgreen)
+![codacy](https://img.shields.io/badge/codacy-A-green)
+![downloads](https://img.shields.io/badge/downloads-97%2Fmonth-brightgreen)
+![version](https://img.shields.io/badge/version-1.0.0-blue)
+![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+
 BashStrap is a quick way to spruce up OSX terminal. It cuts out the fluff, adds in timesaving features, and provides a solid foundation for customizing your terminal style.
 
 
